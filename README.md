@@ -7,3 +7,4 @@
 >>>>>>> conflict-branch
 "Staged change" 
 "Remote branch change" 
+"Remote branch change" 
